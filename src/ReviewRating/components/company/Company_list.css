@@ -1,0 +1,112 @@
+.company {
+    width: 100%;
+    height: 130vh;
+    border: 1px solid black;
+}
+
+.top {
+    width: 100%;
+    height: 70px;
+    border: 1px solid black;
+    display: flex;
+
+}
+
+.top .search {
+    border: 1px solid black;
+    display: flex;
+    margin: auto;
+    margin-left: 600px;
+
+}
+
+#pro {
+    width: 4%;
+    height: 50px;
+    margin-right: 100px;
+}
+
+
+.company img {
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 15%;
+    height: 50px;
+}
+
+.top1 {
+    width: 100%;
+    height: 80px;
+    border: 1px solid black;
+    display: flex;
+
+}
+
+.top1 .search {
+    border: 1px solid black;
+    display: flex;
+    margin: auto;
+    margin-left: 10px;
+}
+
+.top1 img {
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+}
+
+#btn1 {
+    height: 30px;
+    width: 150px;
+    margin-top: 25px;
+    margin-right: 650px;
+    color: white;
+    background-color: rgb(153, 39, 153);
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+#btn2 {
+    height: 50px;
+    width: 180px;
+    margin-top: 15px;
+    margin-left: 1200px;
+    color: white;
+    background-color: orange;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.company1 {
+    width: 100%;
+    height: 110vh;
+    border: 2px solid transparent;
+}
+
+.company1 {
+    margin: auto;
+}
+
+.company1 .company1-box {
+    width: 70%;
+    height: 20vh;
+    border: 1px solid transparent;
+    margin-top: 50px;
+    margin-left: 200px;
+    display: flex;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+.company1-box img {
+    width: 15%;
+    height: 18vh;
+}
+
+.company1-box .text {
+    margin-left: 20px;
+}
+
+.company1-box .text p {
+    font-size: 13px;
+
+}

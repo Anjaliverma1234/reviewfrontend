@@ -1,0 +1,25 @@
+.top {
+    width: 100%;
+    height: 70px;
+    border: 1px solid black;
+    display: flex;
+
+}
+
+
+.top button{
+    width: 5%;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 500px;
+    background-color: aqua;
+}
+.top h3{
+    margin-left: 100px;
+}
+
+#pro {
+    width: 20%;
+    height: 50px;
+    margin-right: 50px;
+}

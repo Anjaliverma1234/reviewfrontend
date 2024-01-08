@@ -1,0 +1,51 @@
+.form {
+    width: 100%;
+    height: 100vh;
+    border: 2px solid black;
+    background-color: rgb(166, 96, 232);
+}
+
+.form .form1 {
+    width: 38%;
+    height: 88vh;
+    border: 2px solid transparent;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    background-image: url(C:\Users\DELL\Downloads\login.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+        box-shadow: 4px 4px 10px;
+
+}
+
+.form1 h3 {
+    margin-left: 380px;
+}
+
+.form1 h1 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.form1 input  {
+    margin-left: 50px;
+    width: 80%;
+    height: 50px;
+    font-size: 20px;
+}
+
+.form1 label {
+    margin-left: 40px;
+    font-size: 18px;
+}
+
+.form1 button {
+    background-color: rgb(184, 50, 184);
+    color: white;
+    margin-left: 220px;
+    width: 25%;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 10px;
+}

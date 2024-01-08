@@ -1,0 +1,106 @@
+.review {
+    width: 100%;
+    height: 120vh;
+    border: 2px solid black;
+}
+
+/* .top {
+    width: 100%;
+    height: 70px;
+    border: 1px solid black;
+    display: flex;
+
+}
+
+.top .search {
+    border: 1px solid black;
+    display: flex;
+    margin: auto;
+    margin-left: 600px;
+
+}
+
+#pro {
+    width: 4%;
+    height: 50px;
+    margin-right: 100px;
+} */
+
+.review img {
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 15%;
+    height: 50px;
+}
+
+.review1 {
+    width: 70%;
+    height: 100vh;
+    border: 1px solid transparent;
+    margin-left: 200px;
+    margin-top: 30px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;}
+
+#all {
+    text-align: center;
+    margin-top: 50px;
+    text-decoration: underline;
+}
+
+.review .review1-box {
+    width: 95%;
+    height: 20vh;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-left: 20px;
+    display: flex;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+.review1-box img {
+    width: 15%;
+    height: 18vh;
+    border-radius: 30px;
+}
+
+.review1-box .text {
+    margin-left: 20px;
+}
+
+.review1-box .text p {
+    font-size: 13px;
+
+}
+
+.review1-box button {
+    height: 30px;
+    width: 150px;
+    margin-top: 55px;
+    margin-left: 300px;
+    color: white;
+    background-color: rgb(217, 151, 64);
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+#logo {
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+}
+
+.review1-box .text1 h4 {
+    margin-left: 10px;
+}
+
+#p {
+    font-size: 10px;
+    margin: -20px;
+    margin-left: 12px;
+}
+
+.review1-box .text1 p {
+    font-size: 14px;
+    margin-top: 30px;
+    margin-left: 15px;
+}
